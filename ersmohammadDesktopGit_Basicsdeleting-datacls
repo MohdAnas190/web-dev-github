@@ -1,0 +1,23 @@
+[33mcommit 4ecb6902bb61969aeb185d030d2c5c0fb50d77a6[m[33m ([m[1;36mHEAD -> [m[1;32mdelete[m[33m)[m
+Author: MohdAnas190 <ermohdanas190@gmail.com>
+Date:   Sat Oct 1 02:06:51 2022 +0530
+
+    deleted file2 and file3
+
+[33mcommit 30cf8418c2b581c2c5435c0b85aecd3fe55d3bac[m
+Author: MohdAnas190 <ermohdanas190@gmail.com>
+Date:   Sat Oct 1 01:06:19 2022 +0530
+
+    file3.txt
+
+[33mcommit 90dc99c4f9bb9afa0b19a71bbc8f82109434cc44[m
+Author: MohdAnas190 <ermohdanas190@gmail.com>
+Date:   Sat Oct 1 01:04:23 2022 +0530
+
+    added file2.txt
+
+[33mcommit f770a3891c8e70d9a54c0dc2fbc9ecaa231a5800[m
+Author: MohdAnas190 <ermohdanas190@gmail.com>
+Date:   Sat Oct 1 00:53:50 2022 +0530
+
+    added file1.txt
